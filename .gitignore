@@ -1,0 +1,22 @@
+# Ignorar archivos de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+*.csproj.user
+
+# Ignorar archivos de construcción
+bin/
+obj/
+
+# Ignorar archivos de paquetes NuGet
+packages/
+*.nupkg
+
+# Ignorar archivos de configuración de entornos
+.env
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos temporales
+*.tmp
